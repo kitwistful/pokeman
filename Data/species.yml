@@ -1,0 +1,133 @@
+---
+-
+  name: Orc
+  number: 1
+  types:
+    - Fire
+    - Fighting
+  basestats:
+    hp: 110
+    attack: 123
+    defense: 65
+    spatk: 100
+    spdef: 65
+    speed: 65
+  learnset:
+    leveling:
+      - name: Orc Punch
+        level: 1
+      - name: Orc Roundhouse
+        level: 9
+      - name: Squeal
+        level: 11
+      - name: Knockout
+        level: 12
+      - name: Heal
+        level: 15
+    tutoring:
+      - Revive
+      - Ply
+-
+  name: Dryad
+  number: 2
+  types:
+    - Bug
+    - Grass
+  basestats:
+    hp: 75
+    attack: 103
+    defense: 80
+    spatk: 70
+    spdef: 70
+    speed: 92
+  learnset:
+    leveling:
+      - name: First Stanza
+        level: 1
+      - name: Dire Stanza
+        level: 5
+      - name: Great Stanza
+        level: 8
+      - name: Overture
+        level: 10
+    tutoring:
+      - Dark Threat
+      - Orc Punch
+-
+  name: Gator
+  number: 3
+  types:
+    - Ground
+    - Dark
+  basestats:
+    hp: 95
+    attack: 117
+    defense: 70
+    spatk: 65
+    spdef: 70
+    speed: 92
+  learnset:
+    levelling:
+      - name: Nip
+        level: 1
+      - name: Bite
+        level: 2
+      - name: Unhinge Jaw
+        level: 4
+      - name: Rehinge Jaw
+        level: 9
+      - name: Dark Threat
+        level: 10
+    tutoring:
+      - Overture
+-
+  name: Boat
+  number: 4
+  types:
+    - Water
+  basestats:
+    hp: 85
+    attack: 105
+    defense: 55
+    spatk: 85
+    spdef: 50
+    speed: 115
+  learnset:
+    levelling:
+      - name: Bite
+        level: 1
+-
+  name: Robot
+  number: 5
+  types:
+    - Bug
+    - Rock
+  basestats:
+    hp: 70
+    attack: 95
+    defense: 125
+    spatk: 65
+    spdef: 75
+    speed: 45
+  learnset:
+    levelling:
+      - name: Great Stanza
+        level: 1
+-
+  name: Angel
+  number: 6
+  types:
+    - Water
+    - Flying
+  basestats:
+    hp: 75
+    attack: 87
+    defense: 63
+    spatk: 87
+    spdef: 63
+    speed: 98
+  learnset:
+    levelling:
+      - name: Bite
+        level: 1
+  

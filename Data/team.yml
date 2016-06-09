@@ -1,0 +1,28 @@
+---
+-
+  name:     Buster
+  species:  Orc
+-
+  name:     Salad
+  species:  Dryad
+-
+  name:     Bad Lady
+  species:  Gator
+  moves:
+    - Bite
+- 
+  name:     Colressed
+  species:  Robot
+  moves:
+    - Pincers
+-
+  name:     Blue man
+  species:  Angel
+  moves:
+    - Sing
+    - Revive
+-
+  name:     Apprend
+  species:  Boat
+  moves:
+    - Water 5

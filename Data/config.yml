@@ -1,0 +1,4 @@
+---
+moves: Data/moves.yml
+species: Data/species.yml
+team: Data/team.yml

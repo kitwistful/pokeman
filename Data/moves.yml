@@ -1,0 +1,152 @@
+---
+-
+  name: Orc Punch
+  number: 1
+  type: Fire
+  category: Physical
+  pp: 15
+  power: 75
+  accuracy: 100
+-
+  name: Orc Roundhouse
+  number: 2
+  type: Fighting
+  category: Physical
+  pp: 15
+  power: 75
+  accuracy: 100
+-
+  name: Squeal
+  number: 3
+  type: Fire
+  category: Physical
+  pp: 15
+  power: 75
+  accuracy: 100
+-
+  name: Knockout
+  number: 4
+  type: Normal
+  category: Status
+  target: self
+  pp: 30
+  status:
+    target:
+      attack: 2
+-
+  name: Heal
+  number: 5
+  type: Fighting
+  category: Physical
+  pp: 30
+  power: 50
+  accuracy: 95
+-
+  name: Revive
+  number: 6
+  type: Fire
+  category: Physical
+  pp: 15
+  target: Any Other
+  power: 90
+  accuracy: 95
+-
+  name: Ply
+  number: 7
+  type: Normal
+  category: Physical
+  pp: 35
+  power: 50
+  accuracy: 100
+-
+  name: First Stanza
+  number: 8
+  type: Grass
+  category: Physical
+  pp: 20
+  power: 90
+  accuracy: 85
+-
+  name: Dire Stanza
+  number: 9
+  type: Normal
+  category: Status
+  pp: 30
+  accuracy: 100
+  target: All Adjacent Foes
+  status:
+    target:
+      defense: -1
+-
+  name: Great Stanza
+  number: 10
+  type: Bug
+  category: Physical
+  pp: 20
+  tm: 5
+  power: 100
+  accuracy: 100
+-
+  name: Overture
+  number: 11
+  type: Fire
+  category: Physical
+  pp: 25
+  power: 40
+  accuracy: 100
+-
+  name: Dark Threat
+  number: 12
+  type: Dark
+  category: Special
+  pp: 15
+  power: 95
+  accuracy: 100
+-
+  name: Nip
+  number: 13
+  type: Dark
+  category: Physical
+  power: 40
+  accuracy: 100
+  pp: 30
+-
+  name: Bite
+  number: 14
+  type: Water
+  category: Physical
+  pp: 25
+  power: 40
+  accuracy: 100
+-
+  name: Unhinge Jaw
+  number: 15
+  type: Ground
+  category: Physical
+  pp: 25
+  power: 40
+  accuracy: 100
+-
+  name: Revive
+  number: 16
+  type: Water
+  category: Special
+  pp: 15
+  power: 95
+  accuracy: 100
+-
+  name: Rehinge Jaw
+  number: 17
+  type: Ground
+  category: Physical
+  pp: 10
+  power: 95
+  accuracy: 100
+-
+  name: Water 5
+  number: 18
+  type: Water
+  category: Physical
+  pp: 15
+  power: 80
+  accuracy: 100
